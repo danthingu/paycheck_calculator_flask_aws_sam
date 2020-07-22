@@ -1,4 +1,4 @@
-#!/Users/dannythiennguyen/Documents/paycheck-calculator-aws-sam/env/bin/python
+#!/Users/dannythiennguyen/Documents/paycheck-calculator-aws-sam/env/bin/python3
 
 # Author: 
 # Contact: grubert@users.sf.net
