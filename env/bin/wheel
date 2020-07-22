@@ -1,4 +1,4 @@
-#!/Users/dannythiennguyen/Documents/paycheck-calculator-aws-sam/env/bin/python
+#!/Users/dannythiennguyen/Documents/paycheck-calculator-aws-sam/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

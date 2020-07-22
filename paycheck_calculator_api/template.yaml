@@ -27,8 +27,8 @@ Resources:
         GetCalculation:
           Type: Api
           Properties:
-            Path: /calculate
-            Method: get
+            Path: /calculate_paycheck
+            Method: post
 
 Outputs:
   # ServerlessRestApi is an implicit API created out of Events key under Serverless::Function

@@ -2,9 +2,9 @@ version = 0.1
 [default]
 [default.deploy]
 [default.deploy.parameters]
-stack_name = "paycheck-calculator-lambda-aws-sam"
+stack_name = "paycheck-calculator-aws-sam"
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-jt8xm00eomw9"
-s3_prefix = "paycheck-calculator-lambda-aws-sam"
+s3_prefix = "paycheck-calculator-aws-sam"
 region = "us-west-2"
 confirm_changeset = true
 capabilities = "CAPABILITY_IAM"
